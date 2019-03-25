@@ -5,6 +5,6 @@ Useful script if you you move files between different OS and the CDJ doesn't rec
 N.b. Assumes each file is an actual MP3 file.</br></br>
 ## Credits
 Big thanks to: 
-* [anderssjoberg97](https://github.com/anderssjoberg97) for highlightning the problem.
+* [Anders Sjöberg](https://github.com/anderssjoberg97) for highlightning the problem.
 
 ## TODO
