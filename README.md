@@ -5,6 +5,7 @@ Useful script if you move files between different OS and the CDJ doesn't recongi
 N.b. Assumes each file is an actual MP3 file.</br></br>
 ## Credits
 Big thanks to: 
-* [Anders Sjöberg](https://github.com/anderssjoberg97) for highlightning the problem.
+* [Anders Sjöberg](https://github.com/anderssjoberg97) for highlighting the problem.
 
-## TODO
+## Usage
+Just run the Python file...
